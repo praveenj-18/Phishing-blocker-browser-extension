@@ -32,7 +32,7 @@
  1. Directly download the source files from GitHub and unzip the folder:<br>
  2. Clone the files using terminal/cmd using the following commands:<br>
  
- `git clone https://github.com/prasad-1808/phishing-blocker-extension`<br>
+ `git clone https://github.com/praveenj-18/phishing-blocker-extension`<br>
  `cd phishing-blocker-extension`
 
 
